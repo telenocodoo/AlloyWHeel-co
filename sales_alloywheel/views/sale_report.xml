@@ -1,0 +1,14 @@
+<odoo>
+    <data>
+        <!--<record model="ir.ui.view" id="sale_pivot_extension">-->
+            <!--<field name="name">sale.report.pivot</field>-->
+            <!--<field name="model">sale.report</field>-->
+            <!--<field name="inherit_id" ref="sale_enterprise.sale_report_view_pivot"/>-->
+            <!--<field name="arch" type="xml">-->
+                <!--<pivot>-->
+                    <!--<field name="project_id" type="measure" />-->
+                <!--</pivot>-->
+            <!--</field>-->
+        <!--</record>-->
+    </data>
+</odoo>
